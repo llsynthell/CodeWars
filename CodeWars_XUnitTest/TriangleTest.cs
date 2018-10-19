@@ -1,3 +1,4 @@
+using CodeWars.Class;
 using Xunit;
 
 namespace CodeWars_XUnitTest
