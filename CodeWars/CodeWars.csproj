@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Class\SquareDigits.cs" />
     <Compile Include="Class\Triangle.cs" />
+    <Compile Include="Class\TwoToOne.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
